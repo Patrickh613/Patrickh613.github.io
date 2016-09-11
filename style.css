@@ -1,3 +1,26 @@
 body {
   background: white
 }
+
+section.history {
+border-radius: 5px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+background-color: beige;
+}
+
+section#lifters {
+margin-left: 30px;
+}
+
+section#table {
+margin-left: 150px;
+
+}
+
+section#info {
+margin-left: 70px;
+
+}
