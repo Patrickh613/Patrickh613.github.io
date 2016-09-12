@@ -8,37 +8,48 @@ padding-top: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
 padding-right: 10px;
-background-color: red;
+margin: 100px;
 font-weight: bold;
+margin-bottom: 50px;
+background-color: beige;
+border-radius: 15px;
 }
 
-.lifters {
-
-color: white;
+section#new {
+border-radius: 5px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 100px;
 font-weight: bold;
-background-color: blue;
-text-align: center;
-margin-right: -25px
-
+margin-bottom: 50px;
+background-color: black;
+border-radius: 15px;
 }
-
 
 
 section#table {
 margin-left: 580px;
 margin-right: 200px;
-
 font-variant:small-caps;
 text-align:center;
-
 }
 
-section#info {
-margin-left: 200px;
-margin-right: 200px;
-font-style: italic;
-font-variant: small-caps;
-text-align:center;
+
+
+section#edit{
+border-radius: 5px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 100px;
+font-weight: bold;
+margin-bottom: 50px;
+background-color: beige;
+border-radius: 15px;
+text-align: center;
 }
 
 section#footer {
@@ -50,26 +61,31 @@ section#footer {
     height: 75px;
     padding-top: 10px;
     font-weight: bold;
+    border-radius: 15px;
 }
 ​
-
-body {
-    background-image: url("weights.jpg");
-}
 
 h1{
     text-align: center;
 }
 
+
 body {
-    background-image: url("weights_copy.jpg");
+    background-image: url("weight.gif");
 
 }
 
 ul {
-text-align: center;
-background-color: yellow
+margin-left: 60px;
+
 }
+
+
+h4 {
+ margin-left: 55px;
+
+}
+
 
 img {
     display: block;
