@@ -2,25 +2,88 @@ body {
   background: white
 }
 
-section.history {
+.history {
 border-radius: 5px;
 padding-top: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
 padding-right: 10px;
-background-color: beige;
+background-color: red;
+font-weight: bold;
 }
 
-section#lifters {
-margin-left: 30px;
+.lifters {
+
+color: white;
+font-weight: bold;
+background-color: blue;
+text-align: center;
+margin-right: -25px
+
 }
+
+
 
 section#table {
-margin-left: 150px;
+margin-left: 580px;
+margin-right: 200px;
+
+font-variant:small-caps;
+text-align:center;
 
 }
 
 section#info {
-margin-left: 70px;
+margin-left: 200px;
+margin-right: 200px;
+font-style: italic;
+font-variant: small-caps;
+text-align:center;
+}
+
+section#footer {
+    margin: auto;
+    height: 330px;
+    background-color: blue;
+    text-align:center;
+    width: 1000px;
+    height: 75px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+​
+
+body {
+    background-image: url("weights.jpg");
+}
+
+h1{
+    text-align: center;
+}
+
+body {
+    background-image: url("weights copy.jpg");
 
 }
+
+ul {
+text-align: center;
+background-color: yellow
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+     font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+
+  }
+}
+
+
