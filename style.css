@@ -89,7 +89,7 @@ h4 {
 img {
     display: block;
     margin: auto;
-    width: 40%;
+    width: 10%;
 }
 
 @media screen and (max-width: 500px) {
