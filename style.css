@@ -53,52 +53,49 @@ text-align: center;
 }
 
 section#footer {
-    margin: auto;
-    height: 330px;
-    background-color: beige;
-    text-align:center;
-    width: 1000px;
-    height: 75px;
-    padding-top: 10px;
-    font-weight: bold;
-    border-radius: 15px;
+margin: auto;
+height: 330px;
+background-color: beige;
+text-align:center;
+width: 1000px;
+height: 75px;
+padding-top: 10px;
+font-weight: bold;
+border-radius: 15px;
 }
 ​
 h1{
-    text-align: center;
+text-align: center;
 }
 
 body {
-
 background-image: url("flag.jpg");
-
 }
 
 ul {
 margin-left: 60px;
-
 }
 
 
 h4 {
  margin-left: 55px;
-
 }
 
 
 img {
-    display: block;
-    margin: auto;
-    width: 40%;
+display: block;
+margin: auto;
+width: 40%;
 }
 
 @media screen and (max-width: 500px) {
   h1 {
-     font-style: italic;
-    font-weight: bold;
-    font-variant: small-caps;
-
-  }
+font-style: italic;
+font-weight: bold;
+font-variant: small-caps;
 }
+
+}
+
 
 
